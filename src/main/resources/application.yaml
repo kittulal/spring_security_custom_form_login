@@ -1,3 +1,6 @@
+server:
+  servlet:
+    context-path: /app-sigma
 spring:
   application:
     name: spring_security_custom_form_login
